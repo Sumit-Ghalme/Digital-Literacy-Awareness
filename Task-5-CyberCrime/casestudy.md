@@ -1,13 +1,17 @@
 Case Study: Phishing Attack on a College Student
 
-A college student received an email that looked like it was sent from his bank. The email warned him that his account would be blocked unless he updated his details immediately. It included a link to a website that looked exactly like the official bank website.
+A college student got an email that looked like it was from his bank. The email said his account would be blocked if he didn't update his details away. It had a link, to a website that looked like the banks official website.
 
-Without verifying the authenticity, the student clicked on the link and entered his login credentials, including his password and OTP. Within a short time, a large amount of money was transferred from his account to unknown accounts.
+The student didn't check if it was real so he clicked the link. Entered his login details, including his password and one-time password. Then a lot of money was transferred from his account to accounts he didn't know about.
 
-After reporting the issue, the bank confirmed that it was a phishing attack, where cybercriminals create fake emails and websites to trick users into sharing sensitive information.
+The bank. Said it was a phishing attack. This is when cybercriminals make emails and websites to trick people into sharing private information.
 
-##Conclusion / Learning:
-Always check the sender’s email address carefully
-Do not click on suspicious or unknown links
-Never share passwords or OTP with anyone
-Use official apps or websites for banking
+Conclusion / Learning:
+
+* Always look at the senders email address carefully
+
+* Don't click on links that seem suspicious or you don't know about
+
+* Never share your passwords or one-time passwords with anyone
+
+* Use the apps or websites for banking
